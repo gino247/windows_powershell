@@ -13,3 +13,5 @@ Import-Module oh-my-posh
 Set-PoshPrompt -Theme funny
 ```
 or whatever theme you prefer.
+
+![Sample screen grab funny theme](/funny_sample.png?raw=true "Funny theme sample")
